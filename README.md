@@ -1,4 +1,4 @@
-[Help by editing this file](https://github.com/webpack/changelog-v5/edit/master/README.md).
+[Click here to Help by editing this file](https://github.com/webpack/changelog-v5/edit/master/README.md).
 
 # General direction
 
@@ -12,7 +12,7 @@ This release focus on the following:
 
 # Migration Guide
 
-=> [see here for a migration guide](https://github.com/webpack/changelog-v5/blob/master/MIGRATION%20GUIDE.md) <=
+=> [Click here to see here for a migration guide](https://github.com/webpack/changelog-v5/blob/master/MIGRATION%20GUIDE.md) <=
 
 # Major Changes
 
